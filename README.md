@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning Bioinformatics and R Programming
 - 💞️ I’m looking to collaborate on different projects related to bioinformatics
-- 📫 How to reach me my email- khushikiran726@gmail.com
+
 
 
 <!---
